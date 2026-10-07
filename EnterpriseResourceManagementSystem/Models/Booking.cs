@@ -8,7 +8,7 @@
 
         public int ResourceId { get; set; }
 
-        public User User { get; set; }
+        public ApplicationUser User { get; set; }
 
         public Resource Resource { get; set; }
 
