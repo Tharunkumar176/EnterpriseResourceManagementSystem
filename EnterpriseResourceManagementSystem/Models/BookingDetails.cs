@@ -3,7 +3,7 @@
     public class BookingDetails
     {
         public int BookingDetailsId { get; set; }
-
+        
         public int BookingId { get; set; }
 
         public DateTime StartTime { get; set; }
